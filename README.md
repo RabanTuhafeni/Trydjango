@@ -1,0 +1,2 @@
+# Trydjango
+Trydjango
